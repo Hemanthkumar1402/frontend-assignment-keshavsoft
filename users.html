@@ -144,7 +144,7 @@
 
     async function loadUsers() {
       try {
-        const res = await fetch('./data/data.json');
+        const res = await fetch('./data.json');
         const data = await res.json();
         users = data.users || data;
         renderUsers(users);
