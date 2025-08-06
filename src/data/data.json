@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Hemanth Kumar",
+    "email": "k.hemanth1214@gmail.com",
+    "role": "Frontend Developer",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "description": "Creative frontend developer passionate about clean, interactive interfaces."
+  },
+  {
+    "name": "Keerthana",
+    "email": "keerthana@example.com",
+    "role": "UI Designer",
+    "skills": [
+      "Figma",
+      "Tailwind",
+      "CSS"
+    ],
+    "description": "Designs elegant UI systems with a user-first approach."
+  },
+  {
+    "name": "Sanjay Reddy",
+    "email": "sanjayreddy@example.com",
+    "role": "Full Stack Developer",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "description": "Full Stack Developer skilled in React, Node.js, MongoDB with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Nithin R",
+    "email": "nithinr@example.com",
+    "role": "Backend Developer",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "description": "Backend Developer skilled in Node.js, Express, MongoDB with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Varsha M",
+    "email": "varsham@example.com",
+    "role": "Frontend Developer",
+    "skills": [
+      "Vue.js",
+      "HTML",
+      "SASS"
+    ],
+    "description": "Frontend Developer skilled in Vue.js, HTML, SASS with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Ravi Teja",
+    "email": "raviteja@example.com",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Docker",
+      "AWS",
+      "CI/CD"
+    ],
+    "description": "DevOps Engineer skilled in Docker, AWS, CI/CD with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Meghana S",
+    "email": "meghanas@example.com",
+    "role": "UI Designer",
+    "skills": [
+      "Adobe XD",
+      "Figma",
+      "Sketch"
+    ],
+    "description": "UI Designer skilled in Adobe XD, Figma, Sketch with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Dinesh K",
+    "email": "dineshk@example.com",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "Pandas",
+      "TensorFlow"
+    ],
+    "description": "Data Scientist skilled in Python, Pandas, TensorFlow with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Kavya L",
+    "email": "kavyal@example.com",
+    "role": "QA Engineer",
+    "skills": [
+      "Selenium",
+      "Postman",
+      "Jest"
+    ],
+    "description": "QA Engineer skilled in Selenium, Postman, Jest with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Arjun M",
+    "email": "arjunm@example.com",
+    "role": "Mobile Developer",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "description": "Mobile Developer skilled in Flutter, Dart, Firebase with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Tejaswini",
+    "email": "tejaswini@example.com",
+    "role": "AI Engineer",
+    "skills": [
+      "PyTorch",
+      "MLflow",
+      "OpenCV"
+    ],
+    "description": "AI Engineer skilled in PyTorch, MLflow, OpenCV with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Karthik",
+    "email": "karthik@example.com",
+    "role": "System Administrator",
+    "skills": [
+      "Linux",
+      "Shell Script",
+      "Networking"
+    ],
+    "description": "System Administrator skilled in Linux, Shell Script, Networking with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Neha V",
+    "email": "nehav@example.com",
+    "role": "Cloud Engineer",
+    "skills": [
+      "Azure",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "description": "Cloud Engineer skilled in Azure, Kubernetes, Terraform with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Vamsi",
+    "email": "vamsi@example.com",
+    "role": "Security Analyst",
+    "skills": [
+      "Nmap",
+      "Wireshark",
+      "Metasploit"
+    ],
+    "description": "Security Analyst skilled in Nmap, Wireshark, Metasploit with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Ritika",
+    "email": "ritika@example.com",
+    "role": "Project Manager",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "JIRA"
+    ],
+    "description": "Project Manager skilled in Agile, Scrum, JIRA with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Ashok P",
+    "email": "ashokp@example.com",
+    "role": "Product Manager",
+    "skills": [
+      "User Stories",
+      "Roadmaps",
+      "Market Research"
+    ],
+    "description": "Product Manager skilled in User Stories, Roadmaps, Market Research with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Pranav",
+    "email": "pranav@example.com",
+    "role": "Frontend Developer",
+    "skills": [
+      "Svelte",
+      "TypeScript",
+      "CSS3"
+    ],
+    "description": "Frontend Developer skilled in Svelte, TypeScript, CSS3 with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "role": "Technical Writer",
+    "skills": [
+      "Markdown",
+      "Docs-as-Code",
+      "Git"
+    ],
+    "description": "Technical Writer skilled in Markdown, Docs-as-Code, Git with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Mohan K",
+    "email": "mohank@example.com",
+    "role": "ML Engineer",
+    "skills": [
+      "Scikit-learn",
+      "XGBoost",
+      "Keras"
+    ],
+    "description": "ML Engineer skilled in Scikit-learn, XGBoost, Keras with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Deepika",
+    "email": "deepika@example.com",
+    "role": "Business Analyst",
+    "skills": [
+      "Excel",
+      "Power BI",
+      "SQL"
+    ],
+    "description": "Business Analyst skilled in Excel, Power BI, SQL with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Rakesh",
+    "email": "rakesh@example.com",
+    "role": "Database Administrator",
+    "skills": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "description": "Database Administrator skilled in MySQL, PostgreSQL, MongoDB with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Lavanya",
+    "email": "lavanya@example.com",
+    "role": "UX Researcher",
+    "skills": [
+      "User Interviews",
+      "Persona Mapping",
+      "Usability Testing"
+    ],
+    "description": "UX Researcher skilled in User Interviews, Persona Mapping, Usability Testing with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Kiran",
+    "email": "kiran@example.com",
+    "role": "Software Architect",
+    "skills": [
+      "Microservices",
+      "Design Patterns",
+      "UML"
+    ],
+    "description": "Software Architect skilled in Microservices, Design Patterns, UML with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Sowmya",
+    "email": "sowmya@example.com",
+    "role": "Support Engineer",
+    "skills": [
+      "Customer Support",
+      "Zendesk",
+      "Ticketing Systems"
+    ],
+    "description": "Support Engineer skilled in Customer Support, Zendesk, Ticketing Systems with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Ajay",
+    "email": "ajay@example.com",
+    "role": "Game Developer",
+    "skills": [
+      "Unity",
+      "C#",
+      "3D Modeling"
+    ],
+    "description": "Game Developer skilled in Unity, C#, 3D Modeling with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Shreya",
+    "email": "shreya@example.com",
+    "role": "HR Coordinator",
+    "skills": [
+      "Recruitment",
+      "Payroll",
+      "Employee Engagement"
+    ],
+    "description": "HR Coordinator skilled in Recruitment, Payroll, Employee Engagement with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Lavanya",
+    "email": "lavanya@example.com",
+    "role": "UX Researcher",
+    "skills": [
+      "User Interviews",
+      "Persona Mapping",
+      "Usability Testing"
+    ],
+    "description": "UX Researcher skilled in User Interviews, Persona Mapping, Usability Testing with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Kiran",
+    "email": "kiran@example.com",
+    "role": "Software Architect",
+    "skills": [
+      "Microservices",
+      "Design Patterns",
+      "UML"
+    ],
+    "description": "Software Architect skilled in Microservices, Design Patterns, UML with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Sowmya",
+    "email": "sowmya@example.com",
+    "role": "Support Engineer",
+    "skills": [
+      "Customer Support",
+      "Zendesk",
+      "Ticketing Systems"
+    ],
+    "description": "Support Engineer skilled in Customer Support, Zendesk, Ticketing Systems with a passion for innovation and teamwork."
+  },
+  {
+    "name": "Kiran",
+    "email": "kiran@example.com",
+    "role": "Software Architect",
+    "skills": [
+      "Microservices",
+      "Design Patterns",
+      "UML"
+    ],
+    "description": "Software Architect skilled in Microservices, Design Patterns, UML with a passion for innovation and teamwork."
+  }
+]
