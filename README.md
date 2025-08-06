@@ -9,7 +9,7 @@
 **Email**: k.hemanth1214@gmail.com  
 
 ## 🌐 Live Demo
-👉 [Click here to view live project](https://your-netlify-link.netlify.app/)  
+👉 [Click here to view live project](https://frontend-assessment-task3-4eaa8a.netlify.app/)  
 *(Replace with your Netlify link once deployed)*
 
 ## 💡 Project Overview
